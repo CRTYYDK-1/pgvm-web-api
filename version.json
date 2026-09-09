@@ -1,1 +1,8 @@
-
+{
+  "version": "1.0.0",
+  "release_date": "2026-09-09",
+  "download_url": "https://github.com/CRTYYDK-1/pgvm-web-api/releases/latest",
+  "changelog": "Bu surumde performans iyilestirmeleri ve hata duzeltmeleri yapildi.",
+  "min_supported_version": "0.8.0",
+  "critical_update": false
+}
